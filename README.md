@@ -1,5 +1,6 @@
 # smart-calc-note
 Pythonで作った、変数定義ができるノート形式の関数電卓です。
+![Smart Calc Note スクリーンショット](screenshot.png)
 
 ## 特徴
 - **変数定義**: `a = 10` のように値を保存して再利用可能
